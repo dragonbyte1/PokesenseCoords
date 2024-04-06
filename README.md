@@ -1,4 +1,4 @@
-# Pokesense Coords
+# PokesenseCoords
 An application to automate a few cellphone processes, especially those related to geo coordinates.
 
 Pokesense runs in Windows and operates only with Android phones.
